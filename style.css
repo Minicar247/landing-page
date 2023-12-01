@@ -1,0 +1,15 @@
+body {
+    display: flex;
+}
+
+header {
+    flex: initial;
+}
+
+.body {
+    flex: auto;
+}
+
+footer {
+    flex: initial
+}
