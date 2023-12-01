@@ -1,10 +1,42 @@
 body {
     display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
 }
 
 header {
     flex: initial;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 0;
+    margin: 0;
 }
+
+h4 {
+    
+}
+
+.right-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px;
+    list-style-type: none;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+
+ }
+
+
+
+
 
 .body {
     flex: auto;
