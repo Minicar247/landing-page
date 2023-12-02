@@ -17,10 +17,6 @@ header {
     margin: 0;
 }
 
-h4 {
-    
-}
-
 .right-links {
     display: flex;
     justify-content: flex-end;
@@ -87,7 +83,7 @@ button {
     background-color:#3882F6 ;
     color: #F9FAF8;
     border-radius: 5px;
-    border: #3882F6 2px;
+    border: 2px solid #3882F6;
     padding: 8px;
 }
 
@@ -146,4 +142,39 @@ h3 {
     font-weight: 700;
     margin: 0px;
     padding-left: 500px;  
+}
+
+.four {
+    flex: auto;
+    display: flex;
+    background-color: #F9FAF8;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    
+}
+
+.four .main {
+    display: flex;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 8px;
+    border: 2px solid #3882F6;
+    padding: 32px;
+    width: 600px;
+    justify-content: space-between;
+}
+
+.four h5 {
+    margin: 0;
+}
+
+.four p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.four button {
+    border: 2px solid #F9FAF8;
+    padding: 6px;
 }
