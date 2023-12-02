@@ -91,6 +91,10 @@ button {
     padding: 8px;
 }
 
+.one button {
+    margin: 8px 0;
+}
+
 .two {
     flex: auto;
     display: flex;
