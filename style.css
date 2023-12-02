@@ -42,7 +42,7 @@ a {
     flex: auto;
     display: flex;
     justify-content: center;
-    padding: 16px;
+    padding: 32px;
 
 }
 
@@ -89,7 +89,7 @@ button {
     flex-direction: column;
     align-items: center;
     background-color: #F9FAF8;
-    padding: 16px;
+    padding: 32px;
 }
 
 .two .main {
@@ -120,7 +120,7 @@ h3 {
     flex-direction: column;
     align-items: center;
     background-color: #E5E7EB;
-    padding: 16px;
+    padding: 32px;
 }
 
 .quote {
@@ -146,7 +146,7 @@ h3 {
     background-color: #F9FAF8;
     justify-content: center;
     align-items: center;
-    padding: 16px;
+    padding: 32px;
     
 }
 
